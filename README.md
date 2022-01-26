@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThatOhGi
-- 👀 I’m interested in ... Expanding the Mind and Conciousness
-- 🌱 I’m currently learning ... Cyber Slacking
-- 💞️ I’m looking to collaborate on ... Personal & Business Privacy
+- 👀 I’m interested in ... Making InfoSec and SecResearch Friends
+- 🌱 I’m currently learning ... Shell Scripting
+- 💞️ I’m looking to collaborate on ... Information Privacy
 - 📫 How to reach me ... send me a gmail
 
 <!---
